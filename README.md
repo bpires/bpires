@@ -3,7 +3,7 @@
 
 
 
-## About me
+## about me
 ⚖️ law clerk at TJCE
 <br/>🎓 graduated in 2015 from Law School at UFC
 <br/>🔭 changing carrer paths
@@ -13,9 +13,9 @@
 <br/>📔 I usually take notes on <a href="https://dynalist.io/" target="_blank">dynalist</a>
 <br/>🤝 I'd like to collaborate in open source projects
 <br/>⚡ fun fact: I hate having to capitalize the first letter of a sentence
-<br/>💬 ask me about anything
+<br/>🎵 favourite genres: indie, alternative rock, lo-fi
 
-## Tech Stack (in progress)
+## tech stacks (learning)
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
