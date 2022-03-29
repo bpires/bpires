@@ -12,7 +12,6 @@
 <br/>💡 interested to know more about computer science
 <br/>📔 I usually take notes on <a href="https://dynalist.io/" target="_blank">dynalist</a>
 <br/>🤝 I'd like to collaborate in open source projects
-<br/>⚡ fun fact: I hate having to capitalize the first letter of a sentence
 <br/>🎵 favourite genres: indie, alternative rock, lo-fi
 
 ## tech stacks (learning)
