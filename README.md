@@ -4,7 +4,7 @@
 
 
 ## About me
-⚖️ law clerk at *TJCE*
+⚖️ law clerk at TJCE
 <br/>🎓 graduated in 2015 from Law School at UFC
 <br/>🔭 changing carrer paths
 <br/>👨‍🚀 currently coursing explorer <a href="https://github.com/Rocketseat" target="_blank">@rocketseat</a>
