@@ -11,7 +11,7 @@
 <br/>🌱 learning about **Web development** 💻
 <br/>💡 interested to know more about computer science
 <br/>📔 I usually take notes on <a href="https://dynalist.io/" target="_blank">dynalist</a>
-<br/>🤝 I'd like to collaborate in open source projects
+<br/>🤝 I'd like to collaborate on open source projects
 <br/>🎵 favourite genres: indie, alternative rock, lo-fi
 
 ## tech stacks (learning)
