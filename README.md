@@ -12,7 +12,7 @@
 <br/>💡 interested to know more about computer science
 <br/>📔 I usually take notes on <a href="https://dynalist.io/" target="_blank">dynalist</a>
 <br/>🤝 I'd like to collaborate on open source projects
-<br/>🎵 favourite genres: indie, alternative rock, lo-fi
+<br/>🎵 indie, alternative rock, lo-fi
 
 ## tech stacks (learning)
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
