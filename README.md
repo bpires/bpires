@@ -1,6 +1,5 @@
 # Rafael Barros <a href="https://www.linkedin.com/in/rafaelb-/" target="_blank"><img src="https://img.shields.io/badge/%20-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
-<p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="12px"><strong> hello world</strong></p>
-
+<p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="12px"><strong> hello, world!</strong></p>
 
 
 ## about me
@@ -8,10 +7,10 @@
 <br/>🎓 graduated in 2015 from Law School at UFC
 <br/>🔭 changing carrer paths
 <br/>👨‍🚀 currently coursing explorer <a href="https://github.com/Rocketseat" target="_blank">@rocketseat</a>
-<br/>🌱 learning about **Web development** 💻
+<br/>🌱 studying **Web development** 💻
 <br/>💡 interested to know more about computer science
 <br/>📔 I usually take notes on <a href="https://dynalist.io/" target="_blank">dynalist</a>
-<br/>🤝 I'd like to collaborate on open source projects
+<br/>🦜 English level: advanced (C1)
 <br/>🎵 indie, alternative rock, lo-fi
 
 ## tech stacks (learning)
