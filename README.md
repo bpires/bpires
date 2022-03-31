@@ -20,7 +20,10 @@
 
 
 ## tech stacks (learning)
-<img src="https://img.shields.io/badge/-05122A?style=social&logo=css3" alt="CSS 3" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-05122A?style=social&logo=html5" alt="HTML 5" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-05122A?style=social&logo=javascript" alt="JavaScript Badge" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-05122A?style=social&logo=node.js" alt="Node.js" height="30">&nbsp;
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+</div>
