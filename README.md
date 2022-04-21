@@ -29,9 +29,7 @@
 
 
 ## GitHub Analytics
-<div> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bpires&theme=dracula&show_icons=true&count_private=true&hide_border=true">&nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true">
- </div>
-<div><img height="182.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpires&theme=dracula&layout=compact&langs_count=5&hide_border=true">
-</div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=bpires&theme=dracula&show_icons=true&count_private=true&hide_border=true">&nbsp;
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true">&nbsp;
+<img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpires&theme=dracula&layout=compact&langs_count=5&hide_border=true">
 
