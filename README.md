@@ -4,7 +4,6 @@
 
 <br/><a href="https://discordapp.com/users/690807885617430558" target="_blank"><img src="https://img.shields.io/badge/rafaelb%235725-05122A?style=flat&logo=discord" alt="rafaelb#5725" height="25"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rafaelb-/" target="_blank"><img src="https://img.shields.io/badge/-rafaelb-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn rafaelb-" height="25"></a>&nbsp; 
 
-
 ## about me
 ⚖️ law clerk at TJCE
 <br/>🎓 graduated in 2015 from Law School at UFC
@@ -18,8 +17,6 @@
 <br> 💬 find more about me in [my student portfolio](https://bpires.github.io/) and feel free to share any thoughts
 
 
-
-
 ## tech stacks & tools (in progress)
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
@@ -29,3 +26,12 @@
   <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div>
+
+
+## GitHub Analytics
+<div> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bpires&theme=dracula&show_icons=true&count_private=true&hide_border=true">&nbsp;
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true">
+ </div>
+<div><img height="182.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpires&theme=dracula&layout=compact&langs_count=5&hide_border=true">
+</div>
+
