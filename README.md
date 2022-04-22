@@ -29,11 +29,11 @@
 <br>
 
 ## analytics & highlights
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=bpires&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&count_private=false&include_all_commits=true&hide_border=true">&nbsp;&nbsp;
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true">&nbsp;
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpires&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true">&nbsp;
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=bpires&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&count_private=false&include_all_commits=true&hide_border=true">&nbsp;
+<img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true">&nbsp;
+<img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpires&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true">&nbsp;
 <a href="https://github.com/bpires/rocketseat-explorer">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=bpires&repo=rocketseat-explorer&show_owner=true&theme=dracula&hide_border=true" />
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=bpires&repo=rocketseat-explorer&show_owner=true&theme=dracula&hide_border=true" />
 </a>
 
 
