@@ -1,7 +1,7 @@
 # Rafael Barros 
 <img width="12px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F39527417-c8b4-4c62-ba1b-778bed35d19a%2Fexplorer-logo.svg?table=block&id=271a48f7-0016-4e99-8756-f9f2c3a399ce&spaceId=f5f08aa3-2c56-438b-826b-8b93256e2d72&userId=a6fed87f-379f-4bc3-8c1e-9b93b144951c&cache=v2"/><strong>&nbsp;&nbsp;&nbsp;WebDev Aspirer</strong>&nbsp;&nbsp; 
 
-<a href="https://discordapp.com/users/690807885617430558" target="_blank"><img src="https://img.shields.io/badge/rafaelb%235725-05122A?style=flat&logo=discord" alt="rafaelb#5725" height="23"></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/rafaelb-/" target="_blank"><img src="https://img.shields.io/badge/-rafaelb-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn rafaelb-" height="23"></a>&nbsp;&nbsp; <a href="https://twitter.com/rafaelbpires" target="_blank"><img src="https://img.shields.io/badge/rafaelbpires-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="23"></a>&nbsp;
+<a href="https://discordapp.com/users/690807885617430558" target="_blank"><img src="https://img.shields.io/badge/rafaelb%235725-05122A?style=flat&logo=discord" alt="rafaelb#5725" height="23"></a>&nbsp;&nbsp; <a href="www.linkedin.com/in/rafaelbpires" target="_blank"><img src="https://img.shields.io/badge/-rafaelbpires-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn rafaelb-" height="23"></a>&nbsp;&nbsp; <a href="https://twitter.com/rafaelbpires" target="_blank"><img src="https://img.shields.io/badge/rafaelbpires-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="23"></a>&nbsp;
 <br>
 
 ## about me
