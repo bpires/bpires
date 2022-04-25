@@ -17,14 +17,16 @@
 <br> 💬 find more about me in [my student portfolio](https://bpires.github.io/) and feel free to share any thoughts
 <br>
 
-##  tech stacks & tools I'm learning
+##  tech stacks & tools 
 
 <div><img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+<!--  <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> -->
 </div>
 <br>
 
