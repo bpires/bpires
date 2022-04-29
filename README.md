@@ -10,11 +10,11 @@
 
 ## about me
 ⚖️ law clerk at TJCE
+<br/>🌍 based in Fortaleza, Brazil
 <br/>🎓 graduated in 2015 from Law School at UFC
 <br/>🔭 changing carrer paths
 <br/>👨‍🚀 currently coursing explorer <a href="https://github.com/Rocketseat" target="_blank">@rocketseat</a>
 <br/>🌱 studying **Web development** 💻
-<br/>💡 interested to know more about computer science
 <br/>🤝 keen to collaborate in open source projects
 <br/>📔 I usually take notes on <a href="https://dynalist.io/" target="_blank">dynalist</a>
 <br/>🎵 indie, alternative rock, lo-fi
