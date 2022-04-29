@@ -1,8 +1,12 @@
 # Rafael Barros 
 <img width="12px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F39527417-c8b4-4c62-ba1b-778bed35d19a%2Fexplorer-logo.svg?table=block&id=271a48f7-0016-4e99-8756-f9f2c3a399ce&spaceId=f5f08aa3-2c56-438b-826b-8b93256e2d72&userId=a6fed87f-379f-4bc3-8c1e-9b93b144951c&cache=v2"/><strong>&nbsp;&nbsp;&nbsp;WebDev Aspirer</strong>&nbsp;&nbsp; 
 
-<a href="https://discordapp.com/users/690807885617430558" target="_blank"><img src="https://img.shields.io/badge/rafaelb%235725-05122A?style=flat&logo=discord" alt="rafaelb#5725" height="23"></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/rafaelbpires/" target="_blank"><img src="https://img.shields.io/badge/-rafaelbpires-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn rafaelb-" height="23"></a>&nbsp;&nbsp; <a href="https://twitter.com/rafaelbpires" target="_blank"><img src="https://img.shields.io/badge/rafaelbpires-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="23"></a>&nbsp;
-<br>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/rafaelbpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
+  <a href="https://discord.com/users/690807885617430558" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
+  <a href="https://bpires.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
+  <a href="https://www.twitter.com/rafaelbpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp; 
+  <a href="https://www.codepen.io/bpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> </p>
 
 ## about me
 ⚖️ law clerk at TJCE
@@ -33,12 +37,12 @@
 <br>
 
 ## analytics & highlights
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=bpires&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&count_private=false&include_all_commits=true&hide_border=true">&nbsp;
-<img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true">&nbsp;
-<img height="115.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpires&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true">&nbsp;
+<a href="http://www.github.com/bpires"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=bpires&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&count_private=false&include_all_commits=true&hide_border=true"></a>&nbsp;
+<a href="http://www.github.com/bpires"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true"></a>&nbsp;
+<a href="http://www.github.com/bpires"><img height="115.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpires&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true"></a>&nbsp;
 <a href="https://github.com/bpires/rocketseat-explorer">
-  <img height="115.5em" src="https://github-readme-stats.vercel.app/api/pin/?username=bpires&repo=rocketseat-explorer&show_owner=true&theme=dracula&hide_border=true" />
-</a>
+  <img height="115.5em" src="https://github-readme-stats.vercel.app/api/pin/?username=bpires&repo=rocketseat-explorer&show_owner=true&theme=dracula&hide_border=true" /></a>
+  <a href="http://www.github.com/bpires"><img height="283em" src="https://activity-graph.herokuapp.com/graph?username=bpires&bg_color=282a36&color=ffffff&line=533849&point=fe6e95&area_color=7cd3ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
