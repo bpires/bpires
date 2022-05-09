@@ -23,17 +23,9 @@
 
 ##  tech stacks & tools 
 
-<div>
-  <img align="center" alt="HTML" height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="CSS" height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Markdown" height="30" src="https://cdn.worldvectorlogo.com/logos/markdown.svg">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="VSCode" height="30"  src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="GitHub" height="30"  src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="GIT" height="30" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="JavaScript" height="30"  src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">&nbsp;&nbsp;&nbsp;
-<!--  <img align="center" alt="React" height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  <img align="center" alt="Node.js" height="30"  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> -->
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,md,vscode,github,git,js&theme=light)](https://bpires.github.io/)
+
+  
 <br>
 
 ## analytics & highlights
