@@ -1,4 +1,5 @@
 # Rafael Barros 
+
 <img width="12px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F39527417-c8b4-4c62-ba1b-778bed35d19a%2Fexplorer-logo.svg?table=block&id=271a48f7-0016-4e99-8756-f9f2c3a399ce&spaceId=f5f08aa3-2c56-438b-826b-8b93256e2d72&userId=a6fed87f-379f-4bc3-8c1e-9b93b144951c&cache=v2"/><strong>&nbsp;&nbsp;&nbsp;WebDev Aspirer</strong>&nbsp;&nbsp; 
 
 <p align="left"> 
@@ -29,12 +30,14 @@
 <br>
 
 ## analytics & highlights
-<a href="http://www.github.com/bpires"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=bpires&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&count_private=false&include_all_commits=true&hide_border=true"></a>&nbsp;
-<a href="http://www.github.com/bpires"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true"></a>&nbsp;
-<a href="http://www.github.com/bpires"><img height="115.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpires&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=bpires&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="115.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpires&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true"></a>&nbsp;
 <a href="https://github.com/bpires/rocketseat-explorer">
   <img height="115.5em" src="https://github-readme-stats.vercel.app/api/pin/?username=bpires&repo=rocketseat-explorer&show_owner=true&theme=dracula&hide_border=true" /></a>
-  <a href="http://www.github.com/bpires"><img height="283em" src="https://activity-graph.herokuapp.com/graph?username=bpires&bg_color=282a36&color=ffffff&line=533849&point=fe6e95&area_color=7cd3ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img height="283em" src="https://activity-graph.herokuapp.com/graph?username=bpires&bg_color=282a36&color=ffffff&line=533849&point=fe6e95&area_color=7cd3ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=bpires&style=for-the-badge&label=Profile%20views&color=313b4a"></img>
+</p>
 
