@@ -24,7 +24,7 @@
 
 ##  tech stacks & tools 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,md,vscode,github,git,js&theme=light)](https://bpires.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,md,vscode,github,git,js&theme=light)](https://github.com/tandpfun/skill-icons)
 
   
 <br>
