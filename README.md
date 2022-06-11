@@ -7,6 +7,7 @@
   <a href="https://discord.com/users/690807885617430558" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
   <a href="https://bpires.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
   <a href="https://www.twitter.com/rafaelbpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp; 
+  <a href="https://www.polywork.com/rafaelbpires" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>&nbsp;&nbsp; 
   <a href="https://www.codepen.io/bpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> </p>
 
 ## about me
