@@ -39,7 +39,15 @@
   <img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/pin/?username=bpires&repo=rocketseat-explorer&show_owner=true&theme=dracula&hide_border=true" /></a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img height="283.5em" src="https://github-activity-graph-bpires.herokuapp.com/graph?username=bpires&bg_color=282a36&color=ffffff&line=533849&point=fe6e95&area_color=7cd3ff&area=true&hide_border=true&custom_title=GitHub%20Last%2031%20days%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+
+<a href="https://metrics.lecoq.io/insights/bpires" target="_blank" rel="noreferrer"><img align="left" height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
+
+
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=bpires&style=for-the-badge&label=Profile%20views&color=313b4a"></img>
+<img align="center" src="https://komarev.com/ghpvc/?username=bpires&style=for-the-badge&label=Profile%20views&color=313b4a"></img>
 </p>
+
+
+
 
