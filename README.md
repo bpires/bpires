@@ -1,36 +1,31 @@
-# Rafael Barros 
 
-<img width="12px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F39527417-c8b4-4c62-ba1b-778bed35d19a%2Fexplorer-logo.svg?table=block&id=271a48f7-0016-4e99-8756-f9f2c3a399ce&spaceId=f5f08aa3-2c56-438b-826b-8b93256e2d72&userId=a6fed87f-379f-4bc3-8c1e-9b93b144951c&cache=v2"/><strong>&nbsp;&nbsp;&nbsp;Rookie Web Developer</strong>&nbsp;&nbsp; 
+
+## About Me
+⚡ Rookie Front-end WebDev 
+<br/>🌍 Based in Fortaleza, Brazil
+<br/>⚖️ Judge's associate at TJCE
+<br/>🔭 Changing career paths
+<br/>🧱 Open-source enthusiast
+<br/>🍄 Community driven
+<br/>🌱 Lifelong learner
+<br/>🎵 Indie, alternative rock, lo-fi
+<br/>📨 Help/colabs → DMs open
 
 <p align="left"> 
+  <a href="https://www.polywork.com/rafaelbpires" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+   <a href="https://www.twitter.com/rafaelbpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/rafaelbpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
   <a href="https://discord.com/users/690807885617430558" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
   <a href="https://bpires.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
-  <a href="https://www.twitter.com/rafaelbpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp; 
-  <a href="https://www.polywork.com/rafaelbpires" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>&nbsp;&nbsp; 
-  <a href="https://www.codepen.io/bpires" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> </p>
 
-## about me
-⚖️ law clerk at TJCE
-<br/>🌍 based in Fortaleza, Brazil
-<br/>🎓 graduated in 2015 from Law School at UFC
-<br/>🔭 changing carrer paths
-<br/>👨‍🚀 currently coursing the explorer program <a href="https://github.com/Rocketseat" target="_blank">@rocketseat</a>
-<br/>🌱 studying **Web development** 💻
-<br/>🤝 keen to collaborate in open source projects
-<br/>📔 usually take notes on <a href="https://dynalist.io/" target="_blank">dynalist</a>
-<br/>🎵 indie, alternative rock, lo-fi
-<br> 💬 find more about me in [my student portfolio](https://bpires.github.io/) and feel free to share any thoughts
-<br>
+<br/>
 
-##  tech stacks & tools 
+##  Tech Stacks & Tools 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,md,vscode,github,git,js&theme=light)](https://github.com/tandpfun/skill-icons)
-
-  
 <br>
 
-## analytics & highlights
+## Analytics & Highlights
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=bpires&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true"></a>&nbsp;
