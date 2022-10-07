@@ -37,12 +37,3 @@
 
 <a href="https://metrics.lecoq.io/insights/bpires" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
 
-
-
-<p align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=bpires&style=for-the-badge&label=Profile%20views&color=313b4a"></img>
-</p>
-
-
-
-
