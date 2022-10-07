@@ -1,15 +1,14 @@
-
-
 ## About Me
-⚡ Rookie Front-end WebDev 
+
+⚡ Early-stage WebDev 
 <br/>🌍 Based in Fortaleza, Brazil
-<br/>⚖️ Judge's associate at TJCE
 <br/>🔭 Changing career paths
 <br/>🧱 Open-source enthusiast
-<br/>🍄 Community driven
+<br/>🍄 Community-driven
 <br/>🌱 Lifelong learner
-<br/>🎵 Indie, alternative rock, lo-fi
-<br/>📨 Help/colabs → DMs open
+<br/>🎵 Indie, alternative rock, & lo-fi
+
+##  Socials
 
 <p align="left"> 
   <a href="https://poly.me/bpires" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>&nbsp;&nbsp;
@@ -18,11 +17,13 @@
   <a href="https://discord.com/users/690807885617430558" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
   <a href="https://bpires.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
 
-<br/>
+Wanna have a quick chat about anything? <br/>
+Just reach out for a [coffee chat ☕](https://cal.com/rafaelbpires/coffeechat)
 
 ##  Tech Stacks & Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,md,vscode,github,git,js&theme=light)](https://github.com/tandpfun/skill-icons)
+
+[![My Skills](https://skillicons.dev/icons?i=md,html,css,js,vscode,git,github&theme=light)](https://github.com/tandpfun/skill-icons)
 <br>
 
 ## Analytics & Highlights
