@@ -21,7 +21,7 @@
 <a href="https://dev.to/rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/devdotto-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="https://medium.com/@rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/medium-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/rafaelb_/" target="_blank" rel="noreferrer"><img src="./assets/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/22f5kxfnmsjnp3dzlluok272i" target="_blank" rel="noreferrer"><img src="./assets/socials/spotify.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/22f5kxfnmsjnp3dzlluok272i" target="_blank" rel="noreferrer"><img src="./assets/socials/spotify-round.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 
 Wanna have a quick chat about anything? <br/>
 Just reach out for a [coffee chat ☕](https://cal.com/rafaelbpires/coffeechat)
