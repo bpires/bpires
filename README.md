@@ -1,44 +1,35 @@
 ## About Me
 
-⚡ Early-stage WebDev 
-<br/>🌍 Based in Fortaleza, Brazil
-<br/>🔭 Changing career paths
+🌙 Hibernating Hobbyist WebDev 
+<br/>🌍 Based in Toronto, Canada
 <br/>🧱 Open-source enthusiast
-<br/>🍄 Community-driven
 <br/>🌱 Lifelong learner
 <br/>🎵 Indie, alternative rock, & lo-fi
 
-##  Socials
-
-<p align="left"> 
-<a href="https://poly.me/bpires" target="_blank" rel="noreferrer"><img src="./assets/socials/polywork.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.twitter.com/rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/690807885617430558" target="_blank" rel="noreferrer"><img src="./assets/socials/discord.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://t.me/rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/telegram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://substack.com/profile/93748291-rafael-b-pires" target="_blank" rel="noreferrer"><img src="./assets/socials/substack.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://bpires.hashnode.dev/" target="_blank" rel="noreferrer"><img src="./assets/socials/hashnode.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://dev.to/rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/devdotto-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/@rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/medium-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/rafaelb_/" target="_blank" rel="noreferrer"><img src="./assets/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/22f5kxfnmsjnp3dzlluok272i" target="_blank" rel="noreferrer"><img src="./assets/socials/spotify-round.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-
-Wanna have a quick chat about anything? <br/>
-Just reach out for a [coffee chat ☕](https://cal.com/rafaelbpires/coffeechat)
 
 ##  Tech Stacks & Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=md,html,css,js,vscode,git,github&theme=light)](https://github.com/tandpfun/skill-icons)
+[![My Skills](https://skillicons.dev/icons?i=md,html,css,git,github&theme=light)](https://github.com/tandpfun/skill-icons)
 <br>
 
 ## Analytics & Highlights
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=bpires&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=bpires&theme=dracula&hide_border=true"></a>&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=bpires&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true"></a>&nbsp;
-<a href="https://github.com/bpires/rocketseat-explorer">
-  <img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/pin/?username=bpires&repo=rocketseat-explorer&show_owner=true&theme=dracula&hide_border=true" /></a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img height="283.5em" src="https://github-activity-graph-bpires.herokuapp.com/graph?username=bpires&bg_color=282a36&color=ffffff&line=533849&point=fe6e95&area_color=7cd3ff&area=true&hide_border=true&custom_title=GitHub%20Last%2031%20days%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<table>
+<tr>
+<td valign="top">
+<img width="430" src="https://github-readme-streak-stats-mu-one-99.vercel.app/?user=bpires&theme=dracula&hide_border=true">
+<br>
+<img width="430" src="https://github-stats-extended-frontend-five-delta.vercel.app/api?username=bpires&hide_title=true&line_height=25&include_all_commits=true&hide_rank=false&theme=dracula&show_icons=true&hide_border=true">
+</td>
+<td valign="top">
+<img width="260" src="https://github-stats-extended-frontend-five-delta.vercel.app/api/top-langs?username=bpires&layout=normal&hide_title=true&langs_count=8&theme=dracula&hide_border=true">
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img width="700" src="https://github-readme-activity-graph-psi-silk.vercel.app/graph?username=bpires&bg_color=282a36&color=ffffff&point=fe6e95&line=533849&point=ffffff&area_color=7cd3ff&area=true&hide_border=true&days=30&custom_title=Last%20Month%27s%20Contributions">
+</td>
+</tr>
+</table>
 
-<a href="https://metrics.lecoq.io/insights/bpires" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
 
